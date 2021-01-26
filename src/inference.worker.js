@@ -3,7 +3,7 @@ import { loadGraphModel } from "@tensorflow/tfjs-converter";
 import { serializeTensor, deserializeTensor } from "./utils";
 
 let model;
-const modelLoaded = loadGraphModel("/midas_u8/model.json")
+const modelLoaded = loadGraphModel("midas_u8/model.json")
   .then((loaded_model) => {
     model = loaded_model;
   })

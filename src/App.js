@@ -10,7 +10,7 @@ import { serializeTensor, deserializeTensor } from "./utils";
 const inferenceWorker = InferenceWorker();
 
 function App() {
-  const [inputSource, setInputSource] = useState("/cat.jpg");
+  const [inputSource, setInputSource] = useState("cat.jpg");
   const inputRef = useRef(null);
   const outputRef = useRef(null);
   const [processing, setProcessing] = useState(false);
