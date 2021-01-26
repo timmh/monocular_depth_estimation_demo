@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monocular_depth_estimation_demo/static/css/main.51034fb2.chunk.css",
+    "main.js": "/monocular_depth_estimation_demo/static/js/main.07be5a10.chunk.js",
+    "main.js.map": "/monocular_depth_estimation_demo/static/js/main.07be5a10.chunk.js.map",
+    "runtime-main.js": "/monocular_depth_estimation_demo/static/js/runtime-main.2e4f9342.js",
+    "runtime-main.js.map": "/monocular_depth_estimation_demo/static/js/runtime-main.2e4f9342.js.map",
+    "static/js/2.0e4c29b4.chunk.js": "/monocular_depth_estimation_demo/static/js/2.0e4c29b4.chunk.js",
+    "static/js/2.0e4c29b4.chunk.js.map": "/monocular_depth_estimation_demo/static/js/2.0e4c29b4.chunk.js.map",
+    "be09974f4418492d137e.worker.js": "/monocular_depth_estimation_demo/be09974f4418492d137e.worker.js",
+    "be09974f4418492d137e.worker.js.LICENSE.txt": "/monocular_depth_estimation_demo/be09974f4418492d137e.worker.js.LICENSE.txt",
+    "be09974f4418492d137e.worker.js.map": "/monocular_depth_estimation_demo/be09974f4418492d137e.worker.js.map",
+    "index.html": "/monocular_depth_estimation_demo/index.html",
+    "static/css/main.51034fb2.chunk.css.map": "/monocular_depth_estimation_demo/static/css/main.51034fb2.chunk.css.map",
+    "static/js/2.0e4c29b4.chunk.js.LICENSE.txt": "/monocular_depth_estimation_demo/static/js/2.0e4c29b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e4f9342.js",
+    "static/js/2.0e4c29b4.chunk.js",
+    "static/css/main.51034fb2.chunk.css",
+    "static/js/main.07be5a10.chunk.js"
+  ]
+}
